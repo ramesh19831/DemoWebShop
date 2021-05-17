@@ -22,4 +22,8 @@ Pwd: *************
 
  - git init
  - git clone "repository url"
- - 
+ - add a new file into the local repo
+ - git status
+- git add .
+- git commit -m "Commit message"
+- git push
