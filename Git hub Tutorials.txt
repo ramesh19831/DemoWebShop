@@ -1,0 +1,25 @@
+======== Git Tutorials============
+1. what is Git & GitHub?
+2. What are the advantages of Git?
+3. Git Setup (git bash installation)
+4. Create a new Github account
+5. Create a new Project
+6. Create a new Repository
+7. Steps to clone git repo
+
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin "git repo url.git"
+	git push -u origin main
+
+repository Url : https://github.com/ramesh19831/DemoWebShop.git
+Username : ramesh19831
+Pwd: *************
+
+ Commands:
+
+ - git init
+ - git clone "repository url"
+ - 
